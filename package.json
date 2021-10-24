@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "a simple socket.io chat app",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express-rate-limit": "^5.2.3",
+    "express-session": "^1.17.1",
+    "socket.io": "^2.1.0"
+  }
+}
